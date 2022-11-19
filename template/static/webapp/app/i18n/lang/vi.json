@@ -1,0 +1,11 @@
+{
+    "app-title"  : "Tin tức an toàn thông tin",
+    "home-label" : "Trang chủ",
+    "hot-news-label" : "Tin nóng",
+    "24h-news-label" : "Tin 24h",
+    "category-label" : "Thể loại",
+    "search-placeholder": "Tên tin tức...",
+    "user-information": "Thông tin cá nhân",
+    "logout": "Đăng xuất"
+
+}

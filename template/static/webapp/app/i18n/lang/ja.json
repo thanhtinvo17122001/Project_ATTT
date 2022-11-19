@@ -1,0 +1,11 @@
+{
+    "app-title"  : "情報セキュリティニュース",
+    "home-label" : "家",
+    "hot-news-label" : "ホットニュース",
+    "24h-news-label" : "24時間ニュース",
+    "category-label" : "カテゴリー",
+    "search-placeholder": "名前 ...",
+    "user-information": "ユーザー情報",
+    "logout": "ログアウト"
+
+}

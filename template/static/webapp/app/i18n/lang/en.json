@@ -1,0 +1,11 @@
+{
+    "app-title"  : "Information Security News",
+    "home-label" : "Home",
+    "hot-news-label" : "Hot News",
+    "24h-news-label" : "24h News",
+    "category-label" : "Category",
+    "search-placeholder": "Name ...",
+    "user-information": "User Information",
+    "logout": "Logout"
+
+}

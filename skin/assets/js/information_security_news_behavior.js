@@ -1,0 +1,1 @@
+$('#search-bar').attr("placeholder", "variable");
